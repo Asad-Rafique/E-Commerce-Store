@@ -6,16 +6,16 @@
 
 <p align="center">
     <a href="https://github.com/yourusername/e-commrus-store/actions">
-        <img src="https://github.com/yourusername/e-commrus-store/workflows/tests/badge.svg" alt="Build Status">
+        <img src="![Capture6](https://github.com/user-attachments/assets/05f90f7e-c3d9-492a-9797-6307f239644e)" alt="Build Status">
     </a>
     <a href="https://packagist.org/packages/yourusername/e-commrus-store">
-        <img src="https://img.shields.io/packagist/dt/yourusername/e-commrus-store" alt="Total Downloads">
+        <img src="![Capture](https://github.com/user-attachments/assets/e74c96ad-4276-4d6d-9b3b-72615395bb53)"alt="Total Downloads">
     </a>
     <a href="https://packagist.org/packages/yourusername/e-commrus-store">
-        <img src="https://img.shields.io/packagist/v/yourusername/e-commrus-store" alt="Latest Stable Version">
+        <img src="![Capture1](https://github.com/user-attachments/assets/0b9b3e91-80f6-4f70-8b92-2dea12ae4a93)"alt="Latest Stable Version">
     </a>
     <a href="https://packagist.org/packages/yourusername/e-commrus-store">
-        <img src="https://img.shields.io/packagist/l/yourusername/e-commrus-store" alt="License">
+        <img src="![Capture2](https://github.com/user-attachments/assets/a19bfdd3-7fc3-4858-b309-830930c7c3be)" alt="License">
     </a>
 </p>
 
